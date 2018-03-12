@@ -10,5 +10,15 @@
 
 * \[paragraphs\] \(syntax/markdown.md\#paragraphs\)
 
+\* \[Markdown\]\(syntax/markdown.md\)
 
+    \* \[Headings\]\(syntax/markdown.md\#headings\)
+
+    \* \[Paragraphs\]\(syntax/markdown.md\#paragraphs\)
+
+    \* \[Lists\]\(syntax/markdown.md\#lists\)
+
+    \* \[Links\]\(syntax/markdown.md\#links\)
+
+    \* \[Images\]\(syntax/markdown.md\#images\)
 
