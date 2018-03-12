@@ -1,6 +1,4 @@
 
-
-var pkg = require("./package.json");
  {
 	"root": "./docs",
 	"title": "DPD API Connection With DO",
@@ -11,7 +9,7 @@ var pkg = require("./package.json");
 		"mobi": "styles/mobi.css",
 		"epub": "styles/epub.css"
 	},
-	"plugins": ["theme-official@2.1.1", "-sharing", "-fontsettings", "sitemap"],
+	"plugins": ["myplugins"],
 	"pluginsConfig": {
 		"myPlugin": {
 			"message": "Hello World"
