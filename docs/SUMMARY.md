@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
 
-* [DMD API interface](dmd-api-interface.md)
+* [DMD API Interface](dmd-api-interface.md)
+
+* DMD API Connection
 
 
 
