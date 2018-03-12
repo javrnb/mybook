@@ -12,7 +12,7 @@
 	"plugins": ["myplugin", "-fontsettings", "sitemap","theme-official@2.1.1"],
 	"pluginsConfig": {
 		"fontsettings": {
-		"theme": "black",
+		"theme": "night",
 		"family": "sans",
 		"size": 2
 		}		
