@@ -11,9 +11,11 @@
 	},
 	"plugins": ["myplugin", "-fontsettings", "sitemap","theme-official@2.1.1"],
 	"pluginsConfig": {
-		"myPlugin": {
-			"message": "Hello World"
-		}
+		"fontsettings": {
+		"theme": "white",
+		"family": "sans",
+		"size": 2
+		}		
 	},
 	"pdf": {
 		"fontSize": 24,
