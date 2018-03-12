@@ -11,19 +11,15 @@
         "pdf": "styles/pdf.css",
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
-    }
-}
+    },
 
-{
     "plugins": ["myplugin"],
     "pluginsConfig": {
         "myPlugin": {
             "message": "Hello World"
         }
-    }
-}
-
-{
+    },
+    
     "pdf": {
         "headerTemplate": "Header of the PDF with _TITLE_",
         "footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
