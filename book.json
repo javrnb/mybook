@@ -9,7 +9,7 @@
 		"mobi": "styles/mobi.css",
 		"epub": "styles/epub.css"
 	},
-	"plugins": ["myplugins"],
+	"plugins": ["myplugin", "-fontsettings"],
 	"pluginsConfig": {
 		"myPlugin": {
 			"message": "Hello World"
