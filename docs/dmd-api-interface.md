@@ -1,6 +1,6 @@
 # DMD API INTERFACE:
 
-Menu &gt;&gt; EDI&gt;&gt;StarGateEDI&gt;&gt;DMD API INTERFACE
+#### Menu &gt;&gt; EDI&gt;&gt;StarGateEDI&gt;&gt;DMD API INTERFACE 
 
 Different work performed forDMD API Interface can be classified as follows:
 
