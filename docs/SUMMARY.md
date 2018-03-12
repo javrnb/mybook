@@ -10,13 +10,13 @@
 
 * [\[Markdown\]\(syntax/markdown.md\)](markdownsyntaxmarkdownmd.md)
 
-*  \[Markdown\]\(syntax/markdown.md\)
+  * \[Markdown\]\(syntax/markdown.md\)
 
-    \* \[Headings\]\(syntax/markdown.md\#headings\)
+         \* \[Headings\]\(syntax/markdown.md\#headings\)
 
-    \* \[Paragraphs\]\(syntax/markdown.md\#paragraphs\)
+          \* \[Paragraphs\]\(syntax/markdown.md\#paragraphs\)
 
-    \* \[Lists\]\(syntax/markdown.md\#lists\)
+          \* \[Lists\]\(syntax/markdown.md\#lists\)
 
 
 
