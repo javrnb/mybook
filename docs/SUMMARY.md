@@ -8,5 +8,7 @@
 * [\[Markdown\] \(syntax/markdown.md\)](markdown-syntaxmarkdownmd.md)
 * [\[Headings\] \(syntax/markdown.md\#headings\)](headings-syntaxmarkdownmdheadings.md)
 
+* \[paragraphs\] \(syntax/markdown.md\#paragraphs\)
+
 
 
