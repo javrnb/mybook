@@ -8,5 +8,11 @@
 
 
 
+\* \[Markdown\]\(syntax/markdown.md\)
 
+    \* \[Headings\]\(syntax/markdown.md\#headings\)
+
+    \* \[Paragraphs\]\(syntax/markdown.md\#paragraphs\)
+
+    \* \[Lists\]\(syntax/markdown.md\#lists\)
 
