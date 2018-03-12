@@ -10,12 +10,11 @@ DMD API Connection checks for tokens from the API
 
 To establish authorized secure connection we need to give App Name and App Key which are username and password. Based on that information we successfully generate token.
 
-The sgh1 file which are received from DMD are stored in  **"/work/edi/\[dbname\]/STARGATE.OUT/"**  in the new Linux server.
+The sgh1 file which are received from DMD are stored in 
+
+```
+"/work/edi/[dbname]/STARGATE.OUT/"  
+```
 
 ** **The sgh1 file contains JSON data with the information about order proposal header number, sku data and state.
-
-  
-
-
-
 
