@@ -1,6 +1,6 @@
 var pkg = require("./package.json");
 
-module.exports = {
+"module.exports" = {
 	"root": "./docs",
 	"title": "DPD API Connection With DO",
 	"styles": {
