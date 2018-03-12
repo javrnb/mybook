@@ -1,25 +1,22 @@
 {
-   "root": "./docs",
-   "title": "DPD API Connection With DO",
-   "heading": "INTRODUCTION"
- 
-    "styles": {
-        "website": "styles/website.css",
-        "ebook": "styles/ebook.css",
-        "pdf": "styles/pdf.css",
-        "mobi": "styles/mobi.css",
-        "epub": "styles/epub.css"
-    },
-
-    "plugins": ["myplugin"],
-    "pluginsConfig": {
-        "myPlugin": {
-            "message": "Hello World"
-        }
-    },
-    
-    "pdf": {
-        "headerTemplate": "Header of the PDF with _TITLE_",
-        "footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
-    }
+	"root": "./docs",
+	"title": "DPD API Connection With DO",
+	"heading": "INTRODUCTION",
+	"styles": {
+		"website": "styles/website.css",
+		"ebook": "styles/ebook.css",
+		"pdf": "styles/pdf.css",
+		"mobi": "styles/mobi.css",
+		"epub": "styles/epub.css"
+	},
+	"plugins": ["myplugin"],
+	"pluginsConfig": {
+		"myPlugin": {
+			"message": "Hello World"
+		}
+	},
+	"pdf": {
+		"headerTemplate": "Header of the PDF with _TITLE_",
+		"footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
+	}
 }
