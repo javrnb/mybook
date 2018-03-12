@@ -1,7 +1,9 @@
-{
+var pkg = require('./package.json);
+
+module.exporst = {
+
 	"root": "./docs",
 	"title": "DPD API Connection With DO",
-	"heading": "INTRODUCTION",
 	"styles": {
 		"website": "styles/website.css",
 		"ebook": "styles/ebook.css",
@@ -9,7 +11,7 @@
 		"mobi": "styles/mobi.css",
 		"epub": "styles/epub.css"
 	},
-	"plugins": ["myplugin"],
+	"plugins": ['theme-official@2.1.1', '-sharing', '-fontsettings', 'sitemap'],
 	"pluginsConfig": {
 		"myPlugin": {
 			"message": "Hello World"
