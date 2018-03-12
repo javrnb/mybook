@@ -6,5 +6,5 @@ The main purpose of this document is to show how DMD API is making connection wi
 
 
 
-
+An image: !\[gras\]\[assets/untitled.png\]
 
