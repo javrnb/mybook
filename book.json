@@ -10,7 +10,7 @@ module.exports = {
 		"mobi": "styles/mobi.css",
 		"epub": "styles/epub.css"
 	},
-	"plugins": ['theme-official@2.1.1', '-sharing', '-fontsettings', 'sitemap'],
+	"plugins": ["theme-official@2.1.1", "-sharing", "-fontsettings", "sitemap"],
 	"pluginsConfig": {
 		"myPlugin": {
 			"message": "Hello World"
