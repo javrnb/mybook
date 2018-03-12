@@ -1,7 +1,7 @@
 
-{
+
 var pkg = require("./package.json");
-module.exports = {
+ {
 	"root": "./docs",
 	"title": "DPD API Connection With DO",
 	"styles": {
@@ -22,5 +22,4 @@ module.exports = {
 		"headerTemplate": "Header of the PDF with _TITLE_",
 		"footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
 	}
-}
 }
