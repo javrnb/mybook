@@ -13,7 +13,7 @@
 		"mobi": "styles/mobi.css",
 		"epub": "styles/epub.css"
 	},
-	"plugins": ["-fontsettings", "sitemap", "theme-official@2.1.1","toggle-chapters","toggle-headers"],
+	"plugins": ["-fontsettings", "theme-official@2.1.1","toggle-chapters","toggle-headers"],
 	"pluginsConfig": {
 		"fontsettings": {
 			"theme": "black",
