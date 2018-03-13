@@ -13,13 +13,12 @@
 		"mobi": "styles/mobi.css",
 		"epub": "styles/epub.css"
 	},
-	"plugins": ["-fontsettings", "sitemap","theme-official@2.1.1"],
+	"plugins": ["-fontsettings","theme-official@2.1.1"],
 	"pluginsConfig": {
 		"fontsettings": {
 		"theme":  "black",
 		"family": "courier",
 		"size": 2,
-		"sitemap": "https://dmd-api.gitbook.com"
 		}
 			
 	},
