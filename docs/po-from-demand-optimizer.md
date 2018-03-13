@@ -4,7 +4,7 @@ This program creates Purchase Order from Demand Optimizer Import. It stores data
 
 ![](file:///C:\Users\nbarnwal\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)
 
-                                   Fig 2.3 PO from Demand Optimizer
+ Fig 2.3 PO from Demand Optimizer
 
 
 
