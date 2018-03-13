@@ -13,3 +13,9 @@
 * [Load DO SKU Data](load-do-sku-data.md)
 * [DO SKU Data](do-sku-data.md)
 
+* \[Using Images\] \(chapter3/imagetests.md\)
+
+
+
+
+
