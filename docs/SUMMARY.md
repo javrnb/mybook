@@ -4,8 +4,7 @@
 
 * [Introduction](README.md)
 * [DMD API Interface](dmd-api-interface.md)
-* * DMD TEST
-* [DMD API Connect](dmd-api-connection.md)
+* [DMD API Connection](dmd-api-connection.md)
 * [Import DO Order Proposal Headers](import-do-order-proposal-headers.md)
 * [Import DO Order Proposal Lines](import-do-order-proposal-lines.md)
 * [PO from Demand Optimizer](po-from-demand-optimizer.md)
@@ -13,8 +12,4 @@
 * [Import DO SKU Data](import-do-sku-data.md)
 * [Load DO SKU Data](load-do-sku-data.md)
 * [DO SKU Data](do-sku-data.md)
-
-
-
-
 
