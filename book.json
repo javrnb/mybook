@@ -16,7 +16,7 @@
 	"plugins": ["-fontsettings", "sitemap","theme-official@2.1.1"],
 	"pluginsConfig": {
 		"fontsettings": {
-		"theme": "white",
+		"theme": "black",
 		"family": "sans",
 		"size": 2
 		}		
