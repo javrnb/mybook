@@ -2,5 +2,7 @@
 
 This program displays contents of skudata table.
 
-![](/assets/testtt.jpg)Fig:DO SKU Data
+&lt;img src = "./assets/DO SKU.jpg"&gt;
+
+Fig:DO SKU Data
 
