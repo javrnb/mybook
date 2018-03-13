@@ -10,15 +10,15 @@ There are three item types we can choose while creating PO:
 
 1.Label:
 
-    If we choose Label then PO is created using items of segment ‘Label’.
+```
+     If we choose Label then PO is created using items of segment ‘Label’.
+```
 
 2.Newell:
 
-   If we choose Newell then PO is created using items of segment ‘Newell’.
+If we choose Newell then PO is created using items of segment ‘Newell’.
 
 3.Others:
 
-  If we choose Others then PO is created using all items except that of segment ‘Label’.
-
-
+If we choose Others then PO is created using all items except that of segment ‘Label’.
 
