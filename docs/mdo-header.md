@@ -2,9 +2,9 @@
 
 This program displays contents of MDO Header and its corresponding MDO Line tables.
 
-![](/assets/check.jpg)
+![](/assets/MDO Header.jpg)
 
 Fig:MDO Header
 
-![](/assets/lines.jpg)
+![](/assets/MDO lines.jpg)
 
