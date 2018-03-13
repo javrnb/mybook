@@ -2,6 +2,10 @@
  {
 	"root": "./docs",
 	"title": "DPD API Connection With DO",
+	"structure":{
+		"readme" : "./docs/README.md",
+		"summary":"./docs/SUMMARY.md"
+	},
 	"styles": {
 		"website": "styles/website.css",
 		"ebook": "styles/ebook.css",
