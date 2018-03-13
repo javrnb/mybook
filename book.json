@@ -19,6 +19,9 @@
 		"theme":  "black",
 		"family": "courier",
 		"size": 2
+		},
+		"sitemap":{
+		hostname: "https://dmd-api.gitbook.com"
 		}		
 	},
 	"pdf": {
