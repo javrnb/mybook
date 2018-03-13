@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [DMD API Interface](dmd-api-interface.md)
-* * [DMD API Connection](dmd-api-connection.md)
+* [DMD API Connection](dmd-api-connection.md)
 * * Import DO Order Proposal Headers
 * * Import DO Order Proposal Lines
 * * PO from Demand Optimizer
@@ -12,8 +12,6 @@
 * * Import DO SKU Data
 * * Load DO SKU Data
 * * DO SKU Data
-
-
 
 
 
