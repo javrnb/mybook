@@ -18,7 +18,8 @@
 		"fontsettings": {
 		"theme":  "black",
 		"family": "courier",
-		"size": 2
+		"size": 2,
+		"sitemap": "https://dmd-api.gitbook.com"
 		}
 			
 	},
