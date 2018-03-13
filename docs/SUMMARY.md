@@ -10,6 +10,6 @@
 * [PO from Demand Optimizer](po-from-demand-optimizer.md)
 * [MDO Header](mdo-header.md)
 * [Import DO SKU Data](import-do-sku-data.md)
-* Load DO SKU Data
-* DO SKU Data
+* [Load DO SKU Data](load-do-sku-data.md)
+* [DO SKU Data](do-sku-data.md)
 
