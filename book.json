@@ -12,19 +12,5 @@
 		"pdf": "styles/pdf.css",
 		"mobi": "styles/mobi.css",
 		"epub": "styles/epub.css"
-	},
-	"plugins": ["-fontsettings","theme-official@2.1.1"],
-	"pluginsConfig": {
-		"fontsettings": {
-		"theme":  "black",
-		"family": "courier",
-		"size": 2
-		}
-			
-	},
-	"pdf": {
-		"fontSize": 12,
-		"headerTemplate": "Header of the PDF with _TITLE_",
-		"footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
 	}
 }
