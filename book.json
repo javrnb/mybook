@@ -16,8 +16,8 @@
 	"plugins": ["-fontsettings"],
 	"pluginsConfig": {
 		"fontsettings": {
-			"theme": "black",
-			"family": "courier",
+			"theme": "white",
+			"family": "sans",
 			"size": 2
 		}
 	},
